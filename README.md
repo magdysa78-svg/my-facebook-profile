@@ -13,8 +13,7 @@
 *   زر تفاعلي (Follow Button).
 
 ## 🔗 روابط المشروع
-معاينة المشروعhttps://magdysa78-svg.github.io/my-facebook-profile/ 
-كود المشروعhttps://github.com/magdysa78-svg/my-facebook-profile/edit/main/README.md 
+معاينة المشروعhttps://magdysa78-svg.github.io/my-facebook-profile/  
 ## 👨‍💻 تعلمت من هذا المشروع
 *   كيفية وضع صورة فوق أخرى باستخدام `position: relative` و `position: absolute`.
 *   طريقة جعل الصور دائرية باستخدام `border-radius: 50%`.
