@@ -20,4 +20,4 @@
 *   رفع المشاريع وربطها بـ **GitHub Pages**.
 
 ---
-تم بواسطة [اsalama magdy] 🚀
+تم بواسطة [salama magdy] 🚀
